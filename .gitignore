@@ -1,1 +1,4 @@
 .idea/
+platforms/android/.gradle/
+platforms/android/build/
+platforms/android/CordovaLib/build/
